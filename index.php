@@ -29,7 +29,7 @@
     </div>
     <?php 
     $n=1;
-    while ($n <=4) {
+    while ($n <4) {
        echo '<div class="row" style="padding-top:20 px">'
         .'<div class="col-md-12" >'
             .'<div class="col-md-3 col-xs-3" style="background-color:#5f89d5;height:325px">'
